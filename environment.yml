@@ -1,0 +1,17 @@
+name: DeforestAnalyser
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - rasterio
+  - scikit-image
+  - pillow
+  - matplotlib
+  - streamlit
+  - pip
+  - pip:
+    - opencv-python-headless
+    - tqdm 

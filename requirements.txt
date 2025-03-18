@@ -1,0 +1,9 @@
+numpy
+pandas
+rasterio
+scikit-image
+pillow
+matplotlib
+streamlit
+opencv-python-headless
+tqdm 
